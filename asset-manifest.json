@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/barangay-blotter-system/static/css/main.22d8c623.css",
+    "main.js": "/barangay-blotter-system/static/js/main.165bff99.js",
+    "static/js/453.9c563de6.chunk.js": "/barangay-blotter-system/static/js/453.9c563de6.chunk.js",
+    "index.html": "/barangay-blotter-system/index.html",
+    "main.22d8c623.css.map": "/barangay-blotter-system/static/css/main.22d8c623.css.map",
+    "main.165bff99.js.map": "/barangay-blotter-system/static/js/main.165bff99.js.map",
+    "453.9c563de6.chunk.js.map": "/barangay-blotter-system/static/js/453.9c563de6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22d8c623.css",
+    "static/js/main.165bff99.js"
+  ]
+}
